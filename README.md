@@ -55,4 +55,4 @@ This project demonstrates how we can use customer data to predict how much they 
 ### Evaluation Result
 Our model achieved an R2 score of **0.9892339**, indicating that it performs well in predicting car purchase amounts based on the provided customer attributes. This model can help car salesmen better understand their customers and tailor their sales strategies accordingly.
 
-*Thank you, Vedanta Banerjee, 20.06.2024*
+*Thank you, Vedanta Banerjee, 2024*
