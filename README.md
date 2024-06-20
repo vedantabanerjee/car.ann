@@ -1,24 +1,24 @@
-# Car Purchase Amount Prediction using a Artificial Neural Network
+# Car Purchase Amount Prediction using Aritificial Neural Networks
 
 **GitHub:** [vedantabanerjee](https://github.com/vedantabanerjee)  
 **Twitter:** [0xr1sh1](https://twitter.com/0xr1sh1)
 
 ## Project Overview
-Imagine you are a car salesman trying to predict how much money a customer is willing to spend on a car. This project aims to develop a model that can make such predictions based on various customer attributes.
+Imagine you're a car salesman trying to predict how much money a customer is willing to spend on a car. This project aims to develop a model that can make such predictions based on various customer attributes.
 
 ## Problem Statement
 We want to create a predictive model that estimates the amount a customer will spend on a car. The prediction will be based on specific details about the customer, such as their age, annual salary, credit card debt, and net worth.
 
 ## Data Attributes
 To make accurate predictions, we will use the following information about each customer:
-- **Customer Name**
-- **Customer e-mail**
-- **Country**
-- **Gender**
-- **Age**
-- **Annual Salary**
-- **Credit Card Debt**
-- **Net Worth**
+- Customer Name
+- Customer e-mail
+- Country
+- Gender
+- Age
+- Annual Salary
+- Credit Card Debt
+- Net Worth
 
 ## Target Prediction
 The goal is to predict the **Car Purchase Amount** for each customer.
@@ -50,6 +50,9 @@ After training, we evaluate the model's performance:
 - We make predictions on the testing set and compare them to the actual values to calculate the model's accuracy using a metric called the R2 score. The R2 score tells us how well our model's predictions match the actual values.
 
 ## Conclusion
-This project demonstrates how we can use customer data to predict how much they might spend on a car. By carefully preparing the data and using advanced machine learning techniques, we can create a model that makes accurate predictions. This model can help car salesmen better understand their customers and tailor their sales strategies accordingly.
+This project demonstrates how we can use customer data to predict how much they might spend on a car. By carefully preparing the data and using advanced machine learning techniques, we have created a model that makes accurate predictions. 
+
+### Evaluation Result
+Our model achieved an R2 score of **0.9892339**, indicating that it performs well in predicting car purchase amounts based on the provided customer attributes. This model can help car salesmen better understand their customers and tailor their sales strategies accordingly.
 
 *Thank you, Vedanta Banerjee, 20.06.2024*
